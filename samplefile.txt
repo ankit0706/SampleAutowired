@@ -1,0 +1,2 @@
+just a sample file which I want to add to
+my git repository using git commands
